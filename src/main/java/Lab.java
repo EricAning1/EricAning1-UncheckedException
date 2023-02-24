@@ -14,6 +14,8 @@ public class Lab {
      * event happens, like running out of computer memory.
      */
     public void throwUncheckedException(){
+        String bat = null;
+        bat.toString();
 
     }
 }
